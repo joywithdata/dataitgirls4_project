@@ -12,7 +12,9 @@
 ## 폴더 설명
 1. Web Scrapping
 - 호텔 예약 사이트 웹 스크래핑(크롤링) 코드
-- [리뷰 크롤링](Review_Crawling_Agoda.html)
+- [리뷰 크롤링_아고다](Review_Crawling_Agoda.html)
+- [리뷰 크롤링 야놀자](Review_Crawling_Yanolja.html)
+- [리뷰 크롤링 여기어때](Review_Crawling_Goodchoice.html)
 
 2. Preprocessing
 - 데이터 전처리 관련 코드
@@ -26,4 +28,4 @@
 - 라벨링 작업 후 분류 모델링 및 confusion matrix로 평가한 코드 
 
 Data
-- 특수문자, 이모티콘, 개행문자 등을 제거하고 맞춤법을 올바르게 수정해 전처리된, 분석에 사용된 Law data 입니다.
+- 특수문자, 이모티콘, 개행문자 등을 제거하고 맞춤법을 올바르게 수정해 전처리된, 분석에 사용된 Law data입니다.
