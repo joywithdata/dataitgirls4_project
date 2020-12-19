@@ -12,6 +12,7 @@
 ## 폴더 설명
 1. Web Scrapping
 - 호텔 예약 사이트 웹 스크래핑(크롤링) 코드
+[리뷰 크롤링](Review Crawling 아고다.html) <br/>
 
 2. Preprocessing
 - 데이터 전처리 관련 코드
